@@ -10,6 +10,9 @@
   #  from = "/*"
   #  to = "/index.html"
   #  status = 200
+  #  from = "/.well-known/apple-developer-merchantid-domain-association"
+  #  to = "/.well-known/apple-developer-merchantid-domain-association"
+  #  status = 200
 
   ## (optional) Settings for Netlify Dev
   ## https://github.com/netlify/cli/blob/master/docs/netlify-dev.md#project-detection

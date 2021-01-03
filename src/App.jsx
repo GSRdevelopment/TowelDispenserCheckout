@@ -1,10 +1,9 @@
 import './App.css';
 import React from 'react';
+import CheckoutForm from './components/CheckoutForm';
 
 const App = () => {
-    return (
-        <h1 className="title">Towel Dispenser</h1>
-    );
+    return <CheckoutForm />;
 }
 
 export default App;

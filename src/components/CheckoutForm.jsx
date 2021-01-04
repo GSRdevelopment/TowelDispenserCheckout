@@ -32,7 +32,7 @@ const CheckoutForm = () => {
   }
 
   // Use a traditional checkout form.
-  return <h1 className="title">Towel Dispenser</h1>;
+  return <div></div>;
 }
 
 export default CheckoutForm;
